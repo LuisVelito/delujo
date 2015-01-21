@@ -1,2 +1,2 @@
 # delujo
-CMR para Delujo.pe, sitio web, avances.
+CRM para Delujo.pe, sitio web, avances.
